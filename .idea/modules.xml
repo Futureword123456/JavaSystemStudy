@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSystemStudy.iml" filepath="$PROJECT_DIR$/JavaSystemStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMethodTest/MyMethodTest.iml" filepath="$PROJECT_DIR$/MyMethodTest/MyMethodTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTwoarrayTest/MyTwoarrayTest.iml" filepath="$PROJECT_DIR$/MyTwoarrayTest/MyTwoarrayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyarrayTest/MyarrayTest.iml" filepath="$PROJECT_DIR$/MyarrayTest/MyarrayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moop/moop.iml" filepath="$PROJECT_DIR$/moop/moop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myString/myString.iml" filepath="$PROJECT_DIR$/myString/myString.iml" />
+    </modules>
+  </component>
+</project>
