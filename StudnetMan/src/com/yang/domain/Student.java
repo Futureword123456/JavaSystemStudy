@@ -9,14 +9,15 @@ package com.yang.domain;
  **/
 public class Student {
     private String name;
-    private  int sid;
+    private  String sid;
+
     private int age;
     private String birthday;
 
     public Student() {
     }
 
-    public Student(String name, int sid, int age, String birthday) {
+    public Student(String name, String sid, int age, String birthday) {
         this.name = name;
         this.sid = sid;
         this.age = age;
@@ -31,11 +32,11 @@ public class Student {
         this.name = name;
     }
 
-    public int getSid() {
+    public String getSid() {
         return sid;
     }
 
-    public void setSid(int sid) {
+    public void setSid(String sid) {
         this.sid = sid;
     }
 
