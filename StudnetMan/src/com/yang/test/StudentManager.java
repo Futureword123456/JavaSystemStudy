@@ -79,8 +79,6 @@ public class StudentManager {
             list.set(index, stu);
             System.out.println("修改成功");
         }
-
-
     }
 
     //删除学生信息
