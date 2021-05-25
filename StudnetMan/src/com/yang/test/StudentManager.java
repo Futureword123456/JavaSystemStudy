@@ -40,6 +40,7 @@ public class StudentManager {
                 default:
                     System.out.println("你输入的数据有误");
                     break;
+
             }
         }
     }
