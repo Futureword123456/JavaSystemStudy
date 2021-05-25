@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/MyMethodTest/MyMethodTest.iml" filepath="$PROJECT_DIR$/MyMethodTest/MyMethodTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyTwoarrayTest/MyTwoarrayTest.iml" filepath="$PROJECT_DIR$/MyTwoarrayTest/MyTwoarrayTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyarrayTest/MyarrayTest.iml" filepath="$PROJECT_DIR$/MyarrayTest/MyarrayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudnetMan/StudnetMan.iml" filepath="$PROJECT_DIR$/StudnetMan/StudnetMan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marrayList/marrayList.iml" filepath="$PROJECT_DIR$/marrayList/marrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/moop/moop.iml" filepath="$PROJECT_DIR$/moop/moop.iml" />
       <module fileurl="file://$PROJECT_DIR$/myString/myString.iml" filepath="$PROJECT_DIR$/myString/myString.iml" />
     </modules>
